@@ -1,0 +1,17 @@
+amplify-s3-image {
+  --width: 70%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.img-square img h2 {
+  margin: 0 auto;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+{
+  "resourceName": "s380c4c7a2",
+  "policyUUID": "80c4c7a2",
+  "bucketName": "awspark08282de518284907a4a4606dadcf3121",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

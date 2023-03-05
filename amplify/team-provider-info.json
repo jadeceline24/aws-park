@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awspark-dev-120145-authRole",
+      "UnauthRoleArn": "arn:aws:iam::922753541851:role/amplify-awspark-dev-120145-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::922753541851:role/amplify-awspark-dev-120145-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awspark-dev-120145-deployment",
+      "UnauthRoleName": "amplify-awspark-dev-120145-unauthRole",
+      "StackName": "amplify-awspark-dev-120145",
+      "StackId": "arn:aws:cloudformation:us-east-1:922753541851:stack/amplify-awspark-dev-120145/2003fde0-b978-11ed-b923-1231c66b446f",
+      "AmplifyAppId": "d2o4o2mkkyybps"
+    },
+    "categories": {
+      "auth": {
+        "awsparkd95e3a63": {}
+      },
+      "storage": {
+        "s380c4c7a2": {}
+      },
+      "api": {
+        "awspark": {}
+      }
+    }
+  }
+}
